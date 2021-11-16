@@ -1,7 +1,7 @@
 # strogonof de frango:chicken:
 **negrito**
 
-## ## Ingredientes
+## Ingredientes
 
 - 3 [peitos de frango](https://www.tudogostoso.com.br/receita/10254-fricasse-de-frango.html) cortados em cubos
 
@@ -27,7 +27,7 @@
 
 - 
 
-  # ## MODO DE PREPARO:spoon:
+  ## MODO DE PREPARO:spoon:
 
   1. Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
   2. Em uma frigideira grande, derreta a manteiga e doure a cebola.
